@@ -1,4 +1,4 @@
-# Patient Health Records - App Modernization with RedHat OpenShift
+# Patient Health Records - App Modernization with RedHat OpenShift (V1)
 
 > A variation of this repo with a Dockerfile is available here: https://github.com/IBM/node-build-config-openshift
 
